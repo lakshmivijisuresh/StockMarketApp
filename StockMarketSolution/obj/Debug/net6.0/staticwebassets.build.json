@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "Hash": "/KDcX49gqOzVaCj/OyeOz09ut4fu3O+72WvrDX9HLZI=",
+  "Source": "StockMarketSolution",
+  "BasePath": "_content/StockMarketSolution",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "StockMarketSolution\\wwwroot",
+      "Source": "StockMarketSolution",
+      "ContentRoot": "C:\\Users\\vijayalakshmi.surend\\Documents\\15. Section 17 - Tag Helpers - Stocks App\\StockMarketSolution\\wwwroot\\",
+      "BasePath": "_content/StockMarketSolution",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\vijayalakshmi.surend\\Documents\\15. Section 17 - Tag Helpers - Stocks App\\StockMarketSolution\\wwwroot\\Scripts\\FinnhubScript.js",
+      "SourceId": "StockMarketSolution",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vijayalakshmi.surend\\Documents\\15. Section 17 - Tag Helpers - Stocks App\\StockMarketSolution\\wwwroot\\",
+      "BasePath": "_content/StockMarketSolution",
+      "RelativePath": "Scripts/FinnhubScript.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Scripts\\FinnhubScript.js"
+    },
+    {
+      "Identity": "C:\\Users\\vijayalakshmi.surend\\Documents\\15. Section 17 - Tag Helpers - Stocks App\\StockMarketSolution\\wwwroot\\StyleSheet.css",
+      "SourceId": "StockMarketSolution",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vijayalakshmi.surend\\Documents\\15. Section 17 - Tag Helpers - Stocks App\\StockMarketSolution\\wwwroot\\",
+      "BasePath": "_content/StockMarketSolution",
+      "RelativePath": "StyleSheet.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\StyleSheet.css"
+    }
+  ]
+}

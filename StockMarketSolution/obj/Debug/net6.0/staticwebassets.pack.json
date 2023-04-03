@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\vijayalakshmi.surend\\Documents\\15. Section 17 - Tag Helpers - Stocks App\\StockMarketSolution\\wwwroot\\Scripts\\FinnhubScript.js",
+      "PackagePath": "staticwebassets\\Scripts\\FinnhubScript.js"
+    },
+    {
+      "Id": "C:\\Users\\vijayalakshmi.surend\\Documents\\15. Section 17 - Tag Helpers - Stocks App\\StockMarketSolution\\wwwroot\\StyleSheet.css",
+      "PackagePath": "staticwebassets\\StyleSheet.css"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.StockMarketSolution.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.StockMarketSolution.props",
+      "PackagePath": "build\\StockMarketSolution.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.StockMarketSolution.props",
+      "PackagePath": "buildMultiTargeting\\StockMarketSolution.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.StockMarketSolution.props",
+      "PackagePath": "buildTransitive\\StockMarketSolution.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
